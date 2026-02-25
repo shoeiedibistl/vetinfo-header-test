@@ -49,7 +49,7 @@ img {
 
 .button {
     position: fixed;
-    top: 140px;
+    bottom: 200px;
     left: 40px;
 }
 
@@ -59,4 +59,5 @@ body.toggle-header header {
 
 body.toggle-header .header2 {
     display: flex;
+
 }
